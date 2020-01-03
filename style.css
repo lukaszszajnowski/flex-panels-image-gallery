@@ -95,6 +95,7 @@ body {
 
 .panel p:nth-child(2) {
   font-size: 4em;
+  opacity: 0.8;
 }
 
 .panel.open {
